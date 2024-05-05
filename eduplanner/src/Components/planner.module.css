@@ -1,0 +1,17 @@
+.mainDIv{
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    
+}
+.showadd{
+     max-width: 20%;
+    text-align: center;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content:space-between;
+    margin: auto;
+    height: 20px;
+    align-items: center;
+    margin-top: 10px;
+}
